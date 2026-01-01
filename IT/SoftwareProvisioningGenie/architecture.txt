@@ -1,0 +1,7 @@
+User -> Workato Go (Chat UI)
+     -> Genie (Intent Detection + Policy Check)
+     -> Workato Recipes
+          - Create ServiceNow Ticket
+          - Validate User Device
+          - Trigger Intune/Jamf Installation
+          - Send Slack Confirmation
