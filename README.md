@@ -55,9 +55,6 @@ Turns natural language IT requests into automated provisioning workflows.
 ### Recipe Flow
 ![IT AI Recipe](IT/SoftwareProvisioningGenie/screenshots/IT_AI_recipe.jpg)
 
-### Architecture Overview
-![IT Architecture](IT/SoftwareProvisioningGenie/screenshots/architecture.png)
-
 ---
 
 ## HR – Hire-to-Retire Genie
