@@ -64,7 +64,7 @@ Turns natural language IT requests into automated provisioning workflows.
 Automates employee onboarding and lifecycle actions across HR systems.
 
 ### Recipe Flow
-![HR AI Recipe]([HR/HireToRetireGenie/screenshots/HR_AI_recipe.jpg](https://github.com/tsfkhn96/AutoPilotAI-Workato-Genie-Lab/blob/main/HR/HireToRetireGenie/screenshots/HR_AI_receipe.jpg))
+![HR AI Recipe](https://github.com/tsfkhn96/AutoPilotAI-Workato-Genie-Lab/blob/main/HR/HireToRetireGenie/screenshots/HR_AI_receipe.jpg))
 
 ---
 
@@ -75,7 +75,7 @@ Automates employee onboarding and lifecycle actions across HR systems.
 Creates CRM opportunities directly from conversational sales requests.
 
 ### Recipe Flow
-![Sales AI Recipe](Sales/LeadToOpportunityGenie/screenshots/sales_ai_recipe.jpg)
+![Sales AI Recipe](https://github.com/tsfkhn96/AutoPilotAI-Workato-Genie-Lab/blob/main/Sales/LeadToOpportunityGenie/screenshots/sales_ai_receipe.jpg)
 
 ---
 
