@@ -1,0 +1,15 @@
+{
+  "domain": "IT",
+  "supported_intents": [
+    {
+      "intent": "software_install",
+      "entities": ["software", "user"],
+      "actions": ["create_ticket", "notify_user"]
+    },
+    {
+      "intent": "software_uninstall",
+      "entities": ["software", "user"],
+      "actions": ["remove_access", "audit_log"]
+    }
+  ]
+}
