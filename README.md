@@ -36,6 +36,21 @@ An agentic automation is an AI-driven system that:
 
 ---
 
+---
+
+## 🧠 AutoPilotAI – Genie Portfolio
+
+This repository demonstrates three autonomous AI agents built using Workato Genie concepts.
+
+| Domain | Genie | Screenshots |
+|-------|-------|-------------|
+| IT | Software Provisioning Genie | [View](#it-software-provisioning-genie) |
+| HR | Hire-to-Retire Genie | [View](#hr-hire-to-retire-genie) |
+| Sales | Lead-to-Opportunity Genie | [View](#sales-lead-to-opportunity-genie) |
+
+---
+
+
 ## 🎯 How to Use This Repo
 
 Each module folder contains:
