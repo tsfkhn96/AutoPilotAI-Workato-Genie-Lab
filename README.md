@@ -53,7 +53,7 @@ An agentic automation is an AI-driven system that:
 Turns natural language IT requests into automated provisioning workflows.
 
 ### Recipe Flow
-![IT AI Recipe](IT/SoftwareProvisioningGenie/screenshots/IT_AI_recipe.jpg)
+![IT AI Recipe](https://github.com/tsfkhn96/AutoPilotAI-Workato-Genie-Lab/blob/main/HR/HireToRetireGenie/screenshots/HR_AI_receipe.jpg)
 
 ---
 
