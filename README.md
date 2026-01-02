@@ -36,17 +36,49 @@ An agentic automation is an AI-driven system that:
 
 ---
 
----
-
-## 🧠 AutoPilotAI – Genie Portfolio
-
-This repository demonstrates three autonomous AI agents built using Workato Genie concepts.
+## 🧠 Genie Portfolio
 
 | Domain | Genie | Screenshots |
 |-------|-------|-------------|
-| IT | Software Provisioning Genie | [View](#it-software-provisioning-genie) |
-| HR | Hire-to-Retire Genie | [View](#hr-hire-to-retire-genie) |
-| Sales | Lead-to-Opportunity Genie | [View](#sales-lead-to-opportunity-genie) |
+| IT | Software Provisioning Genie | [View](#it--software-provisioning-genie) |
+| HR | Hire-to-Retire Genie | [View](#hr--hire-to-retire-genie) |
+| Sales | Lead-to-Opportunity Genie | [View](#sales--lead-to-opportunity-genie) |
+
+---
+
+## IT – Software Provisioning Genie
+
+**Folder:** `IT/SoftwareProvisioningGenie`
+
+Turns natural language IT requests into automated provisioning workflows.
+
+### Recipe Flow
+![IT AI Recipe](IT/SoftwareProvisioningGenie/screenshots/IT_AI_recipe.jpg)
+
+### Architecture Overview
+![IT Architecture](IT/SoftwareProvisioningGenie/screenshots/architecture.png)
+
+---
+
+## HR – Hire-to-Retire Genie
+
+**Folder:** `HR/HireToRetireGenie`
+
+Automates employee onboarding and lifecycle actions across HR systems.
+
+### Recipe Flow
+![HR AI Recipe](HR/HireToRetireGenie/screenshots/HR_AI_recipe.jpg)
+
+---
+
+## Sales – Lead-to-Opportunity Genie
+
+**Folder:** `Sales/LeadToOpportunityGenie`
+
+Creates CRM opportunities directly from conversational sales requests.
+
+### Recipe Flow
+![Sales AI Recipe](Sales/LeadToOpportunityGenie/screenshots/sales_ai_recipe.jpg)
 
 ---
 
