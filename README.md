@@ -2,7 +2,7 @@
 
 Agentic AI automation portfolio demonstrating how autonomous business agents can be designed using Workato Genie concepts.
 
-This repository showcases production-style AI agents across IT, HR, and Sales domains — focusing on intent detection, policy enforcement, and enterprise orchestration.
+This repository showcases production-style AI agents across IT, HR, and Sales domains focusing on intent detection, policy enforcement, and enterprise orchestration.
 
 ---
 
