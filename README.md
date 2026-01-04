@@ -26,6 +26,7 @@ An agentic automation is an AI-driven system that:
 
 | Control Plane | Shared routing + policy + guardrails | [View](ControlPlane/) |
 
+
 ---
 
 ## 🛠 Technologies & Concepts
@@ -37,6 +38,8 @@ An agentic automation is an AI-driven system that:
 - Policy-driven automation & governance
 -  Human-in-the-loop approvals
 - Policy-driven execution & escalation
+- Cross-Genie orchestration patterns in `Orchestration/`
+
 
 
 ---
