@@ -6,6 +6,52 @@ This repository showcases production-style AI agents across IT, HR, and Sales do
 
 ---
 
+---
+
+## 🏗 Enterprise Agentic Architecture
+
+This portfolio demonstrates how **natural-language prompts are transformed into governed enterprise actions** using a shared agentic control plane.
+
+### 🌐 Global Control Plane
+
+This is the generic architecture used across IT, HR, and Sales.
+
+![Enterprise Agentic Control Plane](architecture/enterprise_agentic_control_plane.png)
+
+### 🔄 Control Plane Responsibilities
+
+| Component | Function |
+|----------|----------|
+| Agent Router | Extracts intent & entities from the prompt |
+| Policy Engine | Applies approvals, RBAC, compliance rules |
+| Orchestration Engine | Dispatches tasks to domain agents |
+| Audit & Explainability | Logs decisions, actions, reasoning |
+| Human-in-the-loop | Injects approval steps when required |
+
+---
+
+## 🖥 Example: IT Software Provisioning Genie
+
+Below is a real execution flow for IT self-service automation.
+
+![IT Software Provisioning Flow](architecture/it_software_provisioning_flow.png)
+
+**Example prompt:**
+Install Adobe Acrobat for John Doe on his laptop
+
+
+**Resulting automation:**
+
+- Intent classified → `software_install`
+- Software entity extracted → `Adobe Acrobat`
+- Policy validated → license availability + role permissions
+- IT agent triggered → software provisioning workflow
+- Slack notification posted → status update
+
+---
+
+
+
 ## 🧠 What is an Agentic Automation?
 
 An agentic automation is an AI-driven system that:
