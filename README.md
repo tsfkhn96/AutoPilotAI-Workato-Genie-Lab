@@ -35,6 +35,9 @@ An agentic automation is an AI-driven system that:
 - AI by Workato (Prompt-driven reasoning)
 - Salesforce, ServiceNow, ADP, Okta, Slack
 - Policy-driven automation & governance
+-  Human-in-the-loop approvals
+- Policy-driven execution & escalation
+
 
 ---
 
