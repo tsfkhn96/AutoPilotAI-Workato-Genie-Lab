@@ -16,7 +16,7 @@ This portfolio demonstrates how **natural-language prompts are transformed into 
 
 This is the generic architecture used across IT, HR, and Sales.
 
-![Enterprise Agentic Control Plane](architecture/enterprise_agentic_control_plane.png)
+![IT Software Provisioning Flow](architecture/it_software_provisioning_flow.png)
 
 ### 🔄 Control Plane Responsibilities
 
@@ -34,7 +34,7 @@ This is the generic architecture used across IT, HR, and Sales.
 
 Below is a real execution flow for IT self-service automation.
 
-![IT Software Provisioning Flow](architecture/it_software_provisioning_flow.png)
+![Enterprise Agentic Control Plane](architecture/enterprise_agentic_control_plane.png)
 
 **Example prompt:**
 Install Adobe Acrobat for John Doe on his laptop
