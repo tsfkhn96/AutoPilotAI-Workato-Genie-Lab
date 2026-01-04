@@ -118,8 +118,8 @@ It includes:
 
 **Design artifacts are available in:**
 
-- `ControlPlane/`  
-- `Orchestration/`  
+- [ControlPlane](./ControlPlane)
+- [Orchestration](./Orchestration) 
 
 This architecture mirrors how production-grade enterprise AI agents must operate at scale.
 
