@@ -169,6 +169,13 @@ It includes:
 
 This architecture mirrors how production-grade enterprise AI agents must operate at scale.
 
+## 📚 Enterprise Use Case Catalog
+
+A full list of real-world agentic automation use cases across IT, HR, Sales, CX, Marketing, Support, and Security is available here:
+
+👉 [View Use Case Catalog](./USE_CASES.md)
+
+
 
 ## 👨‍💻 Author
 
