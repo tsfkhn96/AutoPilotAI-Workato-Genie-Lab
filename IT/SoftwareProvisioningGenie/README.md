@@ -25,3 +25,8 @@ A **Workato-style AI Genie** that:
 
 ## 🏗 Architecture
 
+## 🔐 Human-in-the-Loop Approvals
+
+This Genie enforces governance by requiring approvals for high-risk actions.
+
+See the approval flow definitions in the `approvals/` folder.
