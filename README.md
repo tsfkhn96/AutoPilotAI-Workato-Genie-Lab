@@ -24,6 +24,8 @@ An agentic automation is an AI-driven system that:
 | HR | Hire-to-Retire HR Genie |
 | Sales | Lead-to-Opportunity Genie |
 
+| Control Plane | Shared routing + policy + guardrails | [View](ControlPlane/) |
+
 ---
 
 ## 🛠 Technologies & Concepts
