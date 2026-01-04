@@ -49,3 +49,9 @@ User → Workato Go → HR Genie → Workato Recipes → ATS / ADP / Okta / Serv
 | HR processing effort | ↓ 70% |
 | Time-to-hire | ↓ 45% |
 | Onboarding SLA | ↓ 60% |
+
+## 🔐 Human-in-the-Loop Approvals
+
+This Genie enforces governance by requiring approvals for high-risk actions.
+
+See the approval flow definitions in the `approvals/` folder.
