@@ -54,3 +54,10 @@ Genie actions:
 | CRM data entry time | ↓ 70% |
 | Lead conversion speed | ↑ 3× |
 | Data quality | ↑ significantly |
+
+## 🔐 Human-in-the-Loop Approvals
+
+This Genie enforces governance by requiring approvals for high-risk actions.
+
+See the approval flow definitions in the `approvals/` folder.
+
