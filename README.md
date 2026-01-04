@@ -101,6 +101,29 @@ This portfolio demonstrates *design patterns* rather than tool-specific screensh
 
 ---
 
+---
+
+## 🧠 Agentic Control Plane Architecture
+
+This platform is not a collection of isolated automations — it is a governed, multi-agent system.
+
+It includes:
+
+- **Agent Router** – classifies natural-language prompts and routes them to the correct Genie  
+- **Policy Engine** – enforces governance, approvals, and security controls before execution  
+- **Human-in-the-Loop Framework** – approval workflows for high-risk actions  
+- **Cross-Genie Orchestration** – HR events automatically trigger IT provisioning  
+- **Multi-Agent Collaboration** – HR, IT, Security, and Finance agents coordinate autonomously  
+- **Audit & Explainability Layer** – full traceability of every AI decision and action  
+
+**Design artifacts are available in:**
+
+- `ControlPlane/`  
+- `Orchestration/`  
+
+This architecture mirrors how production-grade enterprise AI agents must operate at scale.
+
+
 ## 👨‍💻 Author
 
 Tausif Ahmad - Integration & Automation Engineer  
