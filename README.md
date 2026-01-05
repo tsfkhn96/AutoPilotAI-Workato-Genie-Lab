@@ -1,4 +1,11 @@
-# AutoPilotAI – Workato Genie Lab
+# AutoPilot AI – Workato Genie Lab
+
+© 2026 Tausif Ahmad  
+This project is licensed under the MIT License.
+
+> A practical lab for building autonomous AI copilots on top of Workato to automate HR, Finance, IT Ops, and RevOps workflows.
+
+
 
 Agentic AI automation portfolio demonstrating how autonomous business agents can be designed using Workato Genie concepts.
 
